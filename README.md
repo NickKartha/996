@@ -20,3 +20,5 @@ I18n
 I18n support is ongoing.  
 If you would like to help in advance, you can add translations or just write something down in other languages in separate files.   
 The key is increasing our voices.
+
+Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market.
