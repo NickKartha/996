@@ -5,6 +5,8 @@
 
 <kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>
 
+![karoshi](https://www.kimitang.com/wp-content/uploads/2014/11/karoshi-re.jpg)
+
 Contribution
 ---
 
