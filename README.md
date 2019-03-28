@@ -3,11 +3,7 @@
 
 [English](./en_US.md) | [简体中文](./zh_CN.md)
 
-Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
-
-Suggestions and PRs are welcomed!
-
-Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
+<kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>
 
 Contribution
 ---
