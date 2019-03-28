@@ -5,8 +5,6 @@
 
 <kbd>A</kbd> <kbd>B</kbd> <kbd>C</kbd>
 
-![karoshi](https://www.kimitang.com/wp-content/uploads/2014/11/karoshi-re.jpg)
-
 Contribution
 ---
 
@@ -20,3 +18,5 @@ If you would like to help in advance, you can add translations or just write som
 The key is increasing our voices.
 
 Internationalization (i18n) is the process of developing products in such a way that they can be localized for languages and cultures easily. Localization (l10n), is the process of adapting applications and text to enable their usability in a particular cultural or linguistic market.
+
+![karoshi](https://i.imgur.com/T41WH0F.jpg)
